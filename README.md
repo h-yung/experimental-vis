@@ -4,13 +4,20 @@
 - Movement is tracked in `.tracked-area` debounced 10ms.
 - Layout/width issues without placeholder text in trackpad.
 
-Considering whether experiment will want a backend and some data at some point.
+![Screenshot 2022-12-02 234407](https://user-images.githubusercontent.com/102257735/205424124-3505ebce-971c-434a-bce1-494c80cc3060.png)
+
 
 ## To-dos
 
 Three js: https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
 
 Randomization fed into state.
+
+
+Will this be mobile-first for once??
+
+Considering whether experiment will want a backend and some data at some point.
+
 
 Swipey effect? how to verify without production...
 
