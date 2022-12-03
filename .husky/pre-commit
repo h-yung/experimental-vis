@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# npm test
+npx eslint --ext .jsx --ext .js
+npx pretty-quick --staged
