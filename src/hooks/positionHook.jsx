@@ -13,8 +13,6 @@ export const useMousePosition = () => {
   return [mousePosition, handleMouseMove];
 };
 
-//ltd to containing component where imported?
-
 // export const useMousePosition = ({ includeTouch }) => {
 //   const [
 //     mousePosition,
