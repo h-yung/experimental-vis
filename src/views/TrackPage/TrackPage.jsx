@@ -8,8 +8,9 @@ export default function TrackPage() {
         <TrackBox />
         <div>
           <p>
-            Debounced 10ms. Maintain without placeholder? Some layout issues
-            that it requires placeholder long enough beneath.
+            Some layout issues requiring a placeholder long enough beneath.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
         </div>
       </div>
