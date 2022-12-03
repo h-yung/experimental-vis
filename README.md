@@ -4,9 +4,13 @@
 - Movement is tracked in `.tracked-area` debounced 10ms.
 - Layout/width issues without placeholder text in trackpad.
 
+Considering whether experiment will want a backend and some data at some point.
+
 ## To-dos
 
 Three js: https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+
+Randomization fed into state.
 
 Swipey effect? how to verify without production...
 
@@ -14,10 +18,12 @@ Swipey effect? how to verify without production...
 - https://stackoverflow.com/questions/70612769/how-do-i-recognize-swipe-events-in-react
 - https://stackoverflow.com/questions/73005546/how-do-i-make-this-slideshow-react-to-swiping-on-a-mobile-device
 
+Far-away times: TypeScript
+
 ### Tools and libraries
 
-- Threejs
-- Vite + react
+- Vite + React
+- Threejs (...not yet)
 
 Helpful snips via Josh W Comeau:
 
@@ -26,7 +32,7 @@ Helpful snips via Josh W Comeau:
 
 Styling
 
-- Ant Design for some odds and ends (icons, color ref, maybe a button).
+- [Ant Design](https://ant.design/) for some odds and ends (icons, color ref, maybe a button).
 
 Cleanup
 
