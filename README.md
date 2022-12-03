@@ -1,7 +1,6 @@
-# Untitled vite snips experimental
+# Experimental visual bits
 
 ## Current state
-
 - Movement is tracked in `.tracked-area` debounced 10ms.
 - Layout/width issues without placeholder text in trackpad.
 
