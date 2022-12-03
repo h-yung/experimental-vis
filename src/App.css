@@ -1,41 +1,48 @@
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  /* background: var(--color-ant-green-2); */
+
+  --color-ant-green-3: #b7eb8f;
+  --color-ant-green-2: #d9f7be;
+  --color-ant-green-8: #237804;
+  --color-ant-green-9: #135200;
+  --color-ant-green-10: #092b00;
+  --color-white-mild: rgba(255, 255, 255, 0.852);
+
   text-align: center;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+.Layout__wrapper {
+  max-width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+/* no effect.. */
+.hero {
+  flex-basis: 50rem;
 }
 
-.card {
-  padding: 2em;
+.img__container {
+  flex-shrink: 3;
+  max-width: 90%;
+  height: 500px;
+  min-width: 0px;
+  overflow: hidden;
 }
 
-.read-the-docs {
-  color: #888;
+.img {
+  object-fit: fill;
 }

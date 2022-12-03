@@ -1,15 +1,36 @@
-# assignment
+# Untitled vite snips experimental
+
+## Current state
+
+- Movement is tracked in `.tracked-area` debounced 10ms.
+- Layout/width issues without placeholder text in trackpad.
+
+## To-dos
+
+Three js: https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+
+Swipey effect? how to verify without production...
+
+- https://www.npmjs.com/package/react-swipeable
+- https://stackoverflow.com/questions/70612769/how-do-i-recognize-swipe-events-in-react
+- https://stackoverflow.com/questions/73005546/how-do-i-make-this-slideshow-react-to-swiping-on-a-mobile-device
 
 ### Tools and libraries
 
 - Threejs
 - Vite + react
-  
+
 Helpful snips via Josh W Comeau:
+
 - [useMousePosition](https://www.joshwcomeau.com/snippets/react-hooks/use-mouse-position/)
 - [debounce](https://www.joshwcomeau.com/snippets/javascript/debounce/)
 
+Styling
+
+- Ant Design for some odds and ends (icons, color ref, maybe a button).
+
 Cleanup
+
 - husky
 - eslint (and helpful shortlist for config)[https://cathalmacdonnacha.com/setting-up-eslint-prettier-in-vitejs], except make sure to use **.eslintrc.cjs** not .js, all else same.
 - prettier

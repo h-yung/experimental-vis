@@ -1,0 +1,24 @@
+.nav__wrapper {
+  /* width: 100%; */
+  background: var(--color-white-mild);
+  padding: 1rem 2rem;
+}
+
+.navigation {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 2rem;
+}
+
+.Nav-Link {
+  font-weight: 500;
+}
+
+.logo__home {
+  margin-right: auto;
+  margin-left: 0;
+}
+.logo {
+  font-size: 2em;
+}
