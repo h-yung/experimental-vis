@@ -9,7 +9,7 @@
 
 ## To-dos
 
-Three js: https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+Three js - [e.g.](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
 Randomization fed into state.
 
