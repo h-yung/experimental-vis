@@ -44,7 +44,7 @@ Styling
 Cleanup
 
 - husky
-- eslint (and helpful shortlist for config)[https://cathalmacdonnacha.com/setting-up-eslint-prettier-in-vitejs], except make sure to use **.eslintrc.cjs** not .js, all else same.
+- eslint [(and helpful shortlist for config)](https://cathalmacdonnacha.com/setting-up-eslint-prettier-in-vitejs), except make sure to use **.eslintrc.cjs** not .js, all else same.
 - prettier
 - pretty-quick
 
