@@ -1,10 +1,13 @@
 # Experimental visual bits
 
+Just browsing tutorials.
+
 ## Current state
 
 - Movement is tracked in `.tracked-area` debounced 10ms.
 - Layout/width issues without placeholder text in trackpad.
 
+![Screenshot 2023-05-25 221016](https://github.com/h-yung/experimental-vis/assets/102257735/51921a19-d8ba-4db6-b5c5-9cd76c816452)
 ![Screenshot 2022-12-02 234407](https://user-images.githubusercontent.com/102257735/205424124-3505ebce-971c-434a-bce1-494c80cc3060.png)
 
 
@@ -54,4 +57,4 @@ Cleanup
 **Foibles to avoid**
 
 - For whatever reason despite cloning an empty repo, I needed to `git init` again? husky installation was not working otherwise.
-- Someday soon [this 11-year-old warning](https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important) will hit me.
+- ~~Someday soon [this 11-year-old warning](https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important) will hit me.~~ Just dos2unix-ing it away...
