@@ -1,6 +1,7 @@
 # Experimental visual bits
 
 ## Current state
+
 - Movement is tracked in `.tracked-area` debounced 10ms.
 - Layout/width issues without placeholder text in trackpad.
 
@@ -10,6 +11,8 @@
 ## To-dos
 
 Three js - [e.g.](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+
+Eventually move on to using: https://github.com/pmndrs/react-three-fiber
 
 Randomization fed into state.
 

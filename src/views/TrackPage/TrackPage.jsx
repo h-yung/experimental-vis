@@ -1,4 +1,4 @@
-import TrackBox from "../../components/TrackBox";
+import TrackBox from "../../components/TrackBox/TrackBox";
 import "./TrackPage.css";
 
 export default function TrackPage() {
